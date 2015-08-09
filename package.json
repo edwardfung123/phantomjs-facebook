@@ -1,0 +1,13 @@
+{
+  "name": "phantomjs-facebook",
+  "version": "0.0.1",
+  "description": "Use phantomjs to get your own friend list on Facebook. (No app is allowed to do that except Facebook itself.)",
+  "keywords": ["Facebook", "phantomjs"],
+  "license": "MIT",
+  "author": {
+    "name": "Edward Fung"
+  },
+  "dependencies": {
+    "minimist": "^1.1.3"
+  }
+}

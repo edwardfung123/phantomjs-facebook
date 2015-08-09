@@ -1,0 +1,5 @@
+{
+  "sslProtocol": "any",
+  "diskCache": true,
+  "maxDiskCacheSize": 4096
+}
